@@ -11,7 +11,10 @@ public class LoginPage {
     private By senha = By.id("login-password");
     private By botaoEntrar = By.id("login-button");
 
+    // Sucesso aparece aqui
     private By mensagemSucesso = By.id("success-message");
+
+    // Erro aparece aqui
     private By mensagemErro = By.id("login-result");
 
     public LoginPage(WebDriver driver) {
@@ -30,11 +33,19 @@ public class LoginPage {
         driver.findElement(botaoEntrar).click();
     }
 
-    public boolean loginComSucesso() {
-        return driver.findElement(mensagemSucesso).isDisplayed();
+    public String obterMensagemSucesso() {
+        return driver.findElement(mensagemSucesso).getText();
     }
 
     public String obterMensagemErro() {
         return driver.findElement(mensagemErro).getText();
+    }
+
+    public By getMensagemSucessoLocator() {
+        return mensagemSucesso;
+    }
+
+    public By getMensagemErroLocator() {
+        return mensagemErro;
     }
 }

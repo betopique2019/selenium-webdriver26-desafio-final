@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: tests.CliqueTest
+Test set: tests.CenarioValidarCheckboxTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.305 s -- in tests.CliqueTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.735 s -- in tests.CenarioValidarCheckboxTest

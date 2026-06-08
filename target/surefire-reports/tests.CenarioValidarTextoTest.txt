@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: tests.SelectTest
+Test set: tests.CenarioValidarTextoTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.218 s -- in tests.SelectTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.147 s -- in tests.CenarioValidarTextoTest
