@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import pages.EscritaPage;
 
-public class EscritaTest extends BaseTest {
+public class CenarioValidarEscritaTest extends BaseTest {
 
     @Test
     public void devePreencherCamposDeEscrita() {

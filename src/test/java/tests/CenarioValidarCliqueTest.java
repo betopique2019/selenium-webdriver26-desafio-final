@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import pages.EscritaPage;
 import pages.CliquePage;
 
-public class CliqueTest extends BaseTest {
+public class CenarioValidarCliqueTest extends BaseTest {
 
     @Test
     public void deveMostrarMensagemAoClicarBotaoDepoisDePreencherCampos() {

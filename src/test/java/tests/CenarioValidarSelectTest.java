@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import pages.SelectPage;
 
-public class SelectTest extends BaseTest {
+public class CenarioValidarSelectTest extends BaseTest {
 
     @Test
     public void deveSelecionarLinguagemJavaNoSelect() {

@@ -6,7 +6,7 @@ import pages.TextoPage;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class TextoTest extends BaseTest {
+public class CenarioValidarTextoTest extends BaseTest {
 
     @Test
     public void deveExibirTextoDinamicoAoClicarNoBotao() {

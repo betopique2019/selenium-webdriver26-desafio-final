@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import pages.RadioPage;
 
-public class RadioTest extends BaseTest {
+public class CenarioValidarRadioTest extends BaseTest {
 
     @Test
     public void deveSelecionarApenasPlenoNosRadios() {

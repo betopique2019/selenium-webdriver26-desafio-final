@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import pages.CheckboxPage;
 
-public class CheckboxTest extends BaseTest {
+public class CenarioValidarCheckboxTest extends BaseTest {
 
     @Test
     public void deveSelecionarApenasJavaNosCheckboxes() {
