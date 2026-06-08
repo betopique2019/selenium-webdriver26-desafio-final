@@ -1,0 +1,8 @@
+base\BaseTest.class
+tests\CheckboxTest.class
+tests\TextoTest.class
+tests\CliqueTest.class
+tests\SelectTest.class
+tests\RadioTest.class
+tests\LoginTest.class
+tests\EscritaTest.class

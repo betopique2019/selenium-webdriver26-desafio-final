@@ -1,0 +1,7 @@
+pages\RadioPage.class
+pages\CheckboxPage.class
+pages\LoginPage.class
+pages\CliquePage.class
+pages\TextoPage.class
+pages\EscritaPage.class
+pages\SelectPage.class
